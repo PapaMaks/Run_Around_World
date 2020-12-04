@@ -1,3 +1,8 @@
 <resources>
-    <string name="app_name">Run_Around_World</string>
+    <string name="app_name">Run Around World</string>
+    <string name="app_in_name">Run Around World</string>
+    <string name="app_name_about">App for running</string>
+    <string name="text_bottom">Войдите в свою учётную запись</string>
+    <string name="btnSignIn">Войти</string>
+    <string name="btnRegister">Зарегистрироваться</string>
 </resources>

@@ -7,4 +7,10 @@
     <color name="teal_700">#FF018786</color>
     <color name="black">#FF000000</color>
     <color name="white">#FFFFFFFF</color>
+    <color name="text_bottom">#FADEDE</color>
+    <color name="ripple_effect">#F60606</color>
+    <color name="btn_sign_in">#80F419</color>
+    <color name="btn_sign_in_stroke">#DA00FF</color>
+    <color name="btn_register">#31A2FB</color>
+    <color name="btn_register_stroke">#FFE60D</color>
 </resources>
