@@ -13,4 +13,6 @@
     <color name="btn_sign_in_stroke">#DA00FF</color>
     <color name="btn_register">#31A2FB</color>
     <color name="btn_register_stroke">#FFE60D</color>
+    <color name="text_email">#4A8A00</color>
+    <color name="card_reg">#B6B2B2</color>
 </resources>

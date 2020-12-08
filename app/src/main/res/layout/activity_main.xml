@@ -4,6 +4,7 @@
     android:layout_width="match_parent"
     android:background="@drawable/img_1"
     android:layout_height="match_parent"
+    android:id="@+id/root_element"
     tools:context=".MainActivity">
 
 
@@ -60,7 +61,7 @@
 
 
         <Button
-            android:id="@+id/SignIn"
+            android:id="@+id/btnSignIn"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:layout_marginEnd="6dp"
@@ -72,7 +73,7 @@
             tools:ignore="ButtonStyle" />
 
         <Button
-            android:id="@+id/Register"
+            android:id="@+id/btnRegister"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:layout_marginStart="6dp"

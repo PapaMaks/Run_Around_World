@@ -5,4 +5,8 @@
     <string name="text_bottom">Войдите в свою учётную запись</string>
     <string name="btnSignIn">Войти</string>
     <string name="btnRegister">Зарегистрироваться</string>
+    <string name="text_email">Email</string>
+    <string name="text_pass">Пароль</string>
+    <string name="text_name">Введите имя</string>
+    <string name="text_number">Телефон</string>
 </resources>
