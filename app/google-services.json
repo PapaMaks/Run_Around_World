@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "268034536273",
+    "firebase_url": "https://app-runaroundworld-default-rtdb.firebaseio.com",
+    "project_id": "app-runaroundworld",
+    "storage_bucket": "app-runaroundworld.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:268034536273:android:73ac414de5e03bdbc35970",
+        "android_client_info": {
+          "package_name": "diplom.application.run_around_world"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "268034536273-0dv256hvukmbknvcg5eul2g1akcefdel.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "diplom.application.run_around_world",
+            "certificate_hash": "93c000c3b6eb9134ecba474ce1596ed1e1c41ce7"
+          }
+        },
+        {
+          "client_id": "268034536273-m9hnkb5j31t7h5sf6n4iq4g12pi35bfu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC8wHTKWh9JXIA2pIf5MkChkl8pa9PRyxg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "268034536273-m9hnkb5j31t7h5sf6n4iq4g12pi35bfu.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

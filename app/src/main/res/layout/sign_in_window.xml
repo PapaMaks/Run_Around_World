@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.cardview.widget.CardView
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    app:cardBackgroundColor="@color/card_reg"
+    tools:ignore="ExtraText">
+    tools:ignore="ExtraText"
+    app:cardElevation="10dp" >
+
+    //Реализация Всплывающего окна для входа
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_margin="20dp"
+        android:orientation="vertical">
+
+        <com.rengwuxian.materialedittext.MaterialEditText
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:id="@+id/emailField"
+            android:hint="@string/text_email"
+            android:inputType="textEmailAddress"
+            android:text=""
+            android:textColor="@color/material_on_primary_disabled"
+            android:textColorHint="@color/white"
+            android:textSize="20sp"
+
+            app:met_floatingLabel="highlight"
+            app:met_baseColor="#0056d3"
+            app:met_primaryColor="#982360"
+            app:met_singleLineEllipsis="true"/>
+
+        <com.rengwuxian.materialedittext.MaterialEditText
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:id="@+id/passField"
+            android:hint="@string/text_pass"
+            android:inputType="textPassword"
+            android:text=""
+            android:textColor="@color/material_on_primary_disabled"
+            android:textColorHint="@color/white"
+            android:textSize="20sp"
+
+            app:met_floatingLabel="highlight"
+            app:met_baseColor="#0056d3"
+            app:met_primaryColor="#982360"
+            app:met_singleLineEllipsis="true"/>
+
+
+    </LinearLayout>
+
+
+</androidx.cardview.widget.CardView>
